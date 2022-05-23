@@ -7,7 +7,8 @@
 //#base "cscheme/fonts/tf2.res"				//use tf2 original fonts
 //#base "cscheme/fonts/opensans.res"		//use Open Sans
 //#base "cscheme/fonts/surface.res"			//use Surface
-#base "cscheme/fonts/segoeuivar.res"			//use Segoe UI (Default)
+//#base "cscheme/fonts/segoeuivar.res"		//use Segoe UI Variable (may look better on Windows 11+)
+#base "cscheme/fonts/segoeui.res"			//use Segoe UI (Default)
 
 //
 // TRACKER SCHEME RESOURCE FILE
