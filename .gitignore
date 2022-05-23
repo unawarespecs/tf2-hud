@@ -1,0 +1,7 @@
+# TF2 general mod gitignore
+
+sound/sound.cache
+.vscode/*
+desktop.ini
+.DS_Store
+.cache/*
