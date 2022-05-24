@@ -1,6 +1,8 @@
 # HUD Rewrite
 
-Testing some stuff with a fresh new base.
+Testing some stuff (and reimplementing features of my old personal HUD) with a fresh new base.
+
+For the legacy (old) version of my HUD, you can visit the former [main](https://github.com/unawarespecs/tf2-hud/tree/main) branch.
 
 ---
 
