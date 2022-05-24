@@ -1,9 +1,11 @@
-#base "scheme/fonts.res"
-#base "scheme/colors.res"
-#base "scheme/borders.res"
+"#base"		"base/clientscheme.res"
+// Font Selection
+"#base"		"scheme/fonts_base.res"	// don't delete this
 
-#base "base/clientscheme.res"
+"#base"		"scheme/colors.res"
+"#base"		"scheme/borders.res"
+"#base"		"scheme/settings.res"
 
-Scheme
+"Scheme"
 {
 }
